@@ -6,7 +6,7 @@
 
 \*Change the Codebase to follow acessablity standards
 
-### <ins>Fixes</ins>
+## <ins>Acceptance Criteria</ins>
 
 Refractored Code to fit acceptence criteria
 
