@@ -1,5 +1,7 @@
 # Module 1 Challenge (Code Refractor)
 
+## <ins>User Story</ins>
+
 Refractored Code to fit acceptence criteria
 
 \* Changed Non Semantic HTML Elements to Semantic
