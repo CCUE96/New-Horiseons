@@ -2,6 +2,7 @@
 
 ## <ins>User Story</ins>
 As a user refractor the code to fit client needs
+Maintain the Codebase to follow acessablity stadards
 
 ### <ins>Fixes</ins>
 
