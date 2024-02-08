@@ -3,7 +3,7 @@
 ## <ins>User Story</ins>
 As a user refractor the code to fit client needs
 
-###<ins> Fixes </ins>
+### <ins>Fixes</ins>
 
 Refractored Code to fit acceptence criteria
 
