@@ -1,6 +1,9 @@
 # Module 1 Challenge (Code Refractor)
 
 ## <ins>User Story</ins>
+As a user refractor the code to fit client needs
+
+###<ins> Fixes </ins>
 
 Refractored Code to fit acceptence criteria
 
