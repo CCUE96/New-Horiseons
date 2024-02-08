@@ -4,7 +4,7 @@
 
 \*As a user refractor the code to fit client needs
 
-\*Maintain the Codebase to follow acessablity stadards
+\*Change the Codebase to follow acessablity standards
 
 ### <ins>Fixes</ins>
 
