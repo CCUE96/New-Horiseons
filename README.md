@@ -18,4 +18,5 @@ Refractored Code to fit acceptence criteria
 
 \*Added a Title to the Webpage
 
+## <ins>Mockup</ins>
 ![01-html-css-git-homework-demo](https://github.com/CCUE96/Uconn-2024-Module-1-Challenge/assets/159393541/524ae21a-25dd-40f8-a771-c41e1bf772df)
